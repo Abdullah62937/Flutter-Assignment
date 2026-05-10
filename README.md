@@ -36,13 +36,13 @@ The project is built using Flutter with Provider for state management and follow
 ## 📸 Screenshots
 
 ### 🔐 Login Screen
-![Login Screen](screenshots/login.png)
+![Login Screen](lib/screenshots/login.png)
 
 ### 📝 Registration Screen
-![Registration Screen](screenshots/register.png)
+![Registration Screen](lib/screenshots/register.png)
 
 ### 📊 Dashboard Screen
-![Dashboard Screen](screenshots/dashboard.png)
+![Dashboard Screen](lib/screenshots/dashboard.png)
 
 ### 📖 Subject Detail Screen
-![Subject Detail Screen](screenshots/detail.png)
+![Subject Detail Screen](lib/screenshots/detail.png)
