@@ -1,5 +1,9 @@
-# 📱 Flutter Academic Management App
+# 📱 Flutter Multi Screen App
 
+## 👨‍💻 Student Information
+- Name: Abdullah Faisal
+- Student_ID: SE 221070
+  
 ## 📌 Overview
 This is a modern Flutter-based Academic Management App designed for students to manage and view their academic subjects in a clean and structured interface. The application includes authentication, dashboard, and detailed subject views with a premium dark UI design.
 
