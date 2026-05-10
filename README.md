@@ -32,4 +32,7 @@ The project is built using Flutter with Provider for state management and follow
 ---
 
 ## 📂 Project Structure
+<<<<<<< HEAD
 
+=======
+>>>>>>> 16d44f9 (Assignment)
