@@ -32,7 +32,17 @@ The project is built using Flutter with Provider for state management and follow
 ---
 
 ## 📂 Project Structure
-<<<<<<< HEAD
 
-=======
->>>>>>> 16d44f9 (Assignment)
+## 📸 Screenshots
+
+### 🔐 Login Screen
+![Login Screen](screenshots/login.png)
+
+### 📝 Registration Screen
+![Registration Screen](screenshots/register.png)
+
+### 📊 Dashboard Screen
+![Dashboard Screen](screenshots/dashboard.png)
+
+### 📖 Subject Detail Screen
+![Subject Detail Screen](screenshots/detail.png)
