@@ -1,4 +1,5 @@
 // lib/main.dart
+import 'package:assi/screens/Courses%20screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'app_theme.dart';
@@ -32,6 +33,7 @@ class MyApp extends StatelessWidget {
         AppRoutes.login:     (_) => const LoginScreen(),
         AppRoutes.dashboard: (_) => const DashboardScreen(),
         AppRoutes.detail:    (_) => const DetailScreen(),
+        AppRoutes.courses:   (_) => const CoursesScreen(),
       },
     );
   }
